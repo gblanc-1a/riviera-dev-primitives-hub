@@ -15,6 +15,15 @@ sources:
     metadata:
       description: Official Amadeus Community sources for open source collections
       homepage: https://github.com/AmadeusITGroup/community-collections
+  - id: community-collections
+    name: RivieraDev Community Collections
+    type: github
+    url: https://github.com/gblanc-1a/rivieradev-primitive-collection
+    enabled: true
+    priority: 10
+    metadata:
+      description: RivieraDev source
+      homepage: https://github.com/gblanc-1a/rivieradev-primitive-collection
   - id: awesome-copilot-skills-official
     name: Awesome Copilot Skills (Official)
     type: skills
